@@ -1,12 +1,29 @@
 
-
-
 .navbar {
     width:70%;
 	margin: auto;
 	margin-top: 10px;
 }
 
+
+.text-gray {
+    color: #999;
+}
+
+.app_pic{
+
+width:150px;
+height:150px;
+
+
+}
+
+.img_size{
+    
+width: 492px;
+height: 295px;
+    
+}
 
 
 /* Timeline holder */
@@ -58,14 +75,6 @@ li.timeline-item::before {
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
 }
 
-
-/*
-*
-* ==========================================
-* FOR DEMO PURPOSES
-* ==========================================
-*
-*/
 body {
     background: #E8CBC0;
     background: -webkit-linear-gradient(to right, #C9C6C6, #F1F2F6);
@@ -73,6 +82,3 @@ body {
     min-height: 100vh;
 }
 
-.text-gray {
-    color: #999;
-}
